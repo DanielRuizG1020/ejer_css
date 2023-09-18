@@ -1,0 +1,157 @@
+body {
+    background-color: rgb(253, 235, 208);
+    margin: 20px;
+    border-radius: 5px;
+    padding: 0;
+ }
+
+ .navbar {
+    font-size: 20px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    background-color: #e77243;
+    height: 40px;
+    border-radius: 50px;
+    border:solid
+}
+
+.first {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    margin: 0 10px; /* Espacio entre los elementos de la lista */
+}
+
+a:hover {
+    font-size: 30px;
+    text-decoration: none;
+    color: #07af0f7c;
+    font-weight: bold;
+}
+a {
+    
+    text-decoration: none;
+    color: #850505;
+    font-weight: bold;
+}
+
+
+h1 {
+    font-size: 25px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center;
+    color: #015a14;
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center;
+    color: #c40606;
+
+}
+
+.intro {
+    font-size: 20px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    background-color: #25ca4f;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 10px;
+    border:solid
+    
+}
+
+.imag{
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+
+}
+
+.intro2 {
+    font-size: 20px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    background-color: #e3e9e4;
+    border-radius: 50px;
+    margin: 5px;
+    padding: 20px;
+    border:solid;
+}
+
+p {
+    font-size: 20px;
+   
+
+}
+
+u { 
+
+    font-size: 20px;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    
+
+}
+
+.intropi {
+    font-size: 20px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    background-color: #25ca4f;
+    border-radius: 50px;
+    margin: 80px;
+    padding: 5px;
+    border:solid;
+}
+
+ul,ol{
+    font-size: 20px;
+
+
+}
+
+.intropa {
+    font-size: 20px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    background-color: #e3e9e4;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 2px;
+    border:solid;
+}
+
+.introin {
+    font-size: 20px;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    background-color: #f33e37;
+    border-radius: 50px;
+    margin: 80px;
+    padding: 5px;
+    border:solid;
+}
+h3 {
+    font-size: 25px;
+    background-color: #68e272;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+    border:solid;
+
+}
